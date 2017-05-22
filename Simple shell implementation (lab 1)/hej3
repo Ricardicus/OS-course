@@ -1,0 +1,26 @@
+/home/bjorn/anaconda3/bin/ls
+Program not found.
+/usr/local/sbin/ls
+Program not found.
+/usr/local/bin/ls
+Program not found.
+/usr/sbin/ls
+Program not found.
+/usr/bin/ls
+Program not found.
+/sbin/ls
+Program not found.
+/bin/ls
+Found: /bin/ls
+hej
+hej2
+hej3
+list.c
+list.h
+list.o
+makefile
+sh
+sh.c
+sh.h
+sh.o
+% 

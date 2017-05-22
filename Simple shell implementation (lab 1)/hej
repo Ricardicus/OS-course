@@ -1,0 +1,63 @@
+/home/bjorn/anaconda3/bin/ls
+Program not found.
+/usr/local/sbin/ls
+Program not found.
+/usr/local/bin/ls
+Program not found.
+/usr/sbin/ls
+Program not found.
+/usr/bin/ls
+Program not found.
+/sbin/ls
+Program not found.
+/bin/ls
+Found: /bin/ls
+hej
+hej2
+hej3
+hje
+list.c
+list.h
+list.o
+makefile
+sh
+sh.c
+sh.h
+sh.o
+ome/bjorn/anaconda3/bin/asd
+Program not found.
+/usr/local/sbin/asd
+Program not found.
+/usr/local/bin/asd
+Program not found.
+/usr/sbin/asd
+Program not found.
+/usr/bin/asd
+Program not found.
+/sbin/asd
+Program not found.
+/bin/asd
+Program not found.
+/usr/games/asd
+Program not found.
+/usr/local/games/asd
+Program not found.
+% /home/bjorn/anaconda3/bin/f
+Program not found.
+/usr/local/sbin/f
+Program not found.
+/usr/local/bin/f
+Program not found.
+/usr/sbin/f
+Program not found.
+/usr/bin/f
+Program not found.
+/sbin/f
+Program not found.
+/bin/f
+Program not found.
+/usr/games/f
+Program not found.
+/usr/local/games/f
+Program not found.
+% 
