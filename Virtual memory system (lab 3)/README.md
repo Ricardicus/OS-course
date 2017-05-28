@@ -1,8 +1,8 @@
 # Pretty awesome lab of virtual memory
 
-THe guru at the institution asked us to implement virtual memory to parse
-his assembly program that computes factorials. When the program has finished the
-result is displayed in register R3.
+The guru at the institution asked us to implement virtual memory to used when parsing
+his assembly programs. In this example it is a simple program tha computes factorials (12! in this case).
+When the program has finished the result is displayed in register R3.
 
 # pagefault handling
 
