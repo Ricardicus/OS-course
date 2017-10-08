@@ -9,3 +9,5 @@ Does what the shell does best but is not a programming language.
 # Pipes, I/O redirection, background foreground etc.. :) 
 
 Looking at the PATH variable to see where binaries can reside..
+
+Build and run by typing: make 
